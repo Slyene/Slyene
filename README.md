@@ -15,7 +15,7 @@ Here you will find my projects, which range from small experiments to full-fledg
 
 If you have any questions, suggestions, or just want to say hello, feel free to contact me:
 
-- Email: slyene.dev@gmail.com
+- Email: slyene.dev@gmail.com, deerektor@gmail.com
 - LinkedIn: [Daniil Chesnokov](ссылка)
 - Telegram: [@Slyene](https://t.me/Slyene)
 
