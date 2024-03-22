@@ -1,40 +1,24 @@
-### Hi there 👋
+# Hi, I'm Android developer Slyene! 👋
 
+Hi, my name is Daniil. I'm a passionate android developer, striving to create quality and innovative apps for the Android platform. In this repository I share my projects, experiments and ideas. I hope you will enjoy your time here!
 
-**Slyene/Slyene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About the projects 🚀
 
-Here are some ideas to get you started:
+Here you will find my projects, which range from small experiments to full-fledged applications. I try to share my knowledge and experience with the community, so feel free to ask questions or suggest improvements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Current projects 📂
 
-# Привет, я Android разработчик Slyene!
+- **[Calories](https://github.com/Slyene/Calories-App):** Calorie calculator with online food database.
+- **[Notes](https://github.com/Slyene/Notes):** Notes using Clean Architecture and Flow.
 
-Привет! Меня зовут [вставьте ваше имя]. Я страстный андроид разработчик, стремлюсь создавать качественные и инновационные приложения для платформы Android. В этом репозитории я делюсь своими проектами, экспериментами и идеями. Надеюсь, вам здесь понравится!
+## Communication 📫
 
-## О проектах
+If you have any questions, suggestions, or just want to say hello, feel free to contact me:
 
-Здесь вы найдете мои проекты, которые варьируются от маленьких экспериментов до полноценных приложений. Я стараюсь делиться своими знаниями и опытом с сообществом, поэтому не стесняйтесь задавать вопросы или предлагать улучшения.
+- Email: slyene.dev@gmail.com
+- LinkedIn: [Daniil Chesnokov](ссылка)
+- Telegram: [@Slyene](https://t.me/Slyene)
 
-## Текущие проекты
+## Acknowledgement 🙏
 
-- **[Название проекта 1](ссылка):** Краткое описание проекта 1.
-- **[Название проекта 2](ссылка):** Краткое описание проекта 2.
-
-## Связь
-
-Если у вас есть вопросы, предложения или вы просто хотите поздороваться, не стесняйтесь связаться со мной:
-
-- Электронная почта: ваша_почта@example.com
-- LinkedIn: [Ваше имя](ссылка)
-- Twitter: [@ваш_твиттер](https://twitter.com/ваш_твиттер)
-
-## Благодарность
-
-Благодарю вас за посещение моего профиля GitHub! Надеюсь, вы найдете что-то интересное и полезное здесь. Если у вас есть идеи или предложения, не стесняйтесь сообщить мне. Буду рад сотрудничеству и общению с вами!
+Thank you for visiting my GitHub profile! I hope you find something interesting and useful here. If you have any ideas or suggestions, feel free to let me know. I look forward to collaborating and communicating with you!
