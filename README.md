@@ -8,8 +8,8 @@ Here you will find my projects, which range from small experiments to full-fledg
 
 ## Current projects 📂
 
-- **[Calories](https://github.com/Slyene/Calories-App):** Calorie calculator with online food database.
-- **[Notes](https://github.com/Slyene/Notes):** Notes using Clean Architecture and Flow.
+- **[Calories](https://github.com/Slyene/Calories-App):** calorie calculator with online food database.
+- **[Notes](https://github.com/Slyene/Notes):** notes using Clean Architecture and Flow.
 
 ## Communication 📫
 
