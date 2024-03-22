@@ -1,6 +1,6 @@
 # Hi, I'm Android developer Slyene! 👋
 
-Hi, my name is Daniil. I'm a passionate Android Developer, striving to create quality and innovative apps for the Android platform. In this repository I share my projects, experiments and ideas. I hope you will enjoy your time here!
+Hi, my name is Daniil. I'm a passionate Android developer, striving to create quality and innovative apps for the Android platform. In this repository I share my projects, experiments and ideas. I hope you will enjoy your time here!
 
 ## About the projects 🚀
 
